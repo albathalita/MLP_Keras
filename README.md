@@ -14,7 +14,7 @@ Quando adicionar a camada de saída, deve-se passar no parâmetro a função de 
 
 ## Resultados
 
-O resultado do teste foi satisfatório, pois houve uma acurácia de 83.959% de uma amostra de 4687 valores.
+O resultado do teste foi satisfatório, pois houve uma acurácia de 83.959% para os valores testados.
 
 
 ## Link
